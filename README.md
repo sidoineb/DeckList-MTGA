@@ -10,7 +10,7 @@ Listing de mes bibliothéques jouées sur le jeu Magic The Gathering Arena
 ## Nomenclature
 
 Afin de faciliter le classement, chaque bibliothéque exportée, est classée dans le dossier de son format correspondant:
-Standard, Alchemy et Historic
+Standard, Alchemy, Explorer et Historic
 
 Chaque catégorie contient un dossier Old comportant toutes les anciennes bibliothéques non-jouables, sortie du format (roulement, list de ban, etc.)
 
@@ -21,6 +21,7 @@ Chaque catégorie contient un dossier Old comportant toutes les anciennes biblio
 * [Magic/Wizards](https://magic.wizards.com/fr)
 
 ### Streamers
+* [Eliott Dragon](https://www.twitch.tv/eliott_dragon)
 * [Heytan76](https://www.twitch.tv/heytan76)
 * [Ashlizzlle](https://www.twitch.tv/ashlizzlle)
 * [Santos Vella](https://www.twitch.tv/santosvella)
